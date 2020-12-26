@@ -1,6 +1,8 @@
 {
-  "nam": "amongus",
+  "name": "amongus",
   "version": "1.0.0",
   "info": "Модуль для определения предателя из игры AmongUs",
   "logo": "amongus.jpg",
+  "update_info": "",
+  "requirements": "pillow"
 }

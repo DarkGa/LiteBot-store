@@ -1,0 +1,8 @@
+{
+  "name": "virustotal",
+  "version": "1.0.0",
+  "info": "Модуль для проверки файла через апи VirusTotal.",
+  "logo": "",
+  "update_info": "",
+  "requirements": ""
+}
